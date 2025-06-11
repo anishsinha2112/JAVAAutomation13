@@ -1,6 +1,6 @@
-package ex_01_Java_Basic;
+package ex_03_Literals;
 
-public class Nine_table {
+public class Task {
     public static void main(String[] args) {
         System.out.println("Multiplication Table of 9:");
 
